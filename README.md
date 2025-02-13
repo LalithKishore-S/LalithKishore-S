@@ -2,7 +2,15 @@
 - 👀 I’m interested in learning different programming languages and in data analysis.
 - 🌱 I’m currently pursuing MSc Data Science at PSG College Of Technology.
    
-  
+  ## 📊 Profile Stats
+![Lalith's GitHub stats](https://github-readme-stats.vercel.app/api?username=LalithKishore-S&show_icons=true&theme=aura)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithKishore-S&hide=javascript&layout=compact&hide_progress=true&theme=aura)]
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LalithKishore-S&theme=aura)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=LalithKishore-S&color=0f0f0f&style=for-the-badge)
+
 
 <!---
 LalithKishore-S/LalithKishore-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
