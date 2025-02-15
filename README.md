@@ -5,11 +5,16 @@
   ## 📊 Profile Stats
 ![Lalith's GitHub stats](https://github-readme-stats.vercel.app/api?username=LalithKishore-S&show_icons=true&theme=aura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithKishore-S&hide=javascript&layout=compact&hide_progress=true&theme=aura)]
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=LalithKishore-S&theme=aura)](https://git.io/streak-stats)
 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=LalithKishore-S&color=0f0f0f&style=for-the-badge)
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritanya-vs&layout=compact&langs_count=5&theme=default)
+
+
 
 
 <!---
