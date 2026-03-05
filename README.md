@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LalithKishore-S
-- 👀 I’m interested in learning different programming languages and in data analysis.
+- 👀 I’m interested in algorithms related to AI/ML.
 - 🌱 I’m currently pursuing MSc Data Science at PSG College Of Technology.
    
   ## 📊 Profile Stats
